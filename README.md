@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Leandro
+# Olá! 👋 Eu sou o Leandro Abdallah
 
 🚀 **Desenvolvedor Fullstack em formação** apaixonado por criar soluções que fazem diferença
 
