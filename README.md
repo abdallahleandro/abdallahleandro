@@ -6,7 +6,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na La Salle
 - 💻 Formação **Fullstack** pela Rocketseat
 - 🔧 14 anos de experiência em **suporte técnico**, agora migrando para desenvolvimento
-- 📍 Canoas/RS • Disponível para trabalho remoto
+- 📍 Canoas/RS • Disponível para trabalho remoto, híbrido ou presencial
 
 ## 🛠️ Tech Stack
 
