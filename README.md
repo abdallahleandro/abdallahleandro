@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 Desenvolvedor Backend & Fullstack
+### 🚀 Desenvolvedor Fullstack & Analista de Sistemas
 
 Com mais de **14 anos de bagagem sólida em suporte técnico**, desenvolvi uma forte habilidade na resolução de problemas complexos, análise de processos e comunicação. Hoje, aplico essa bagagem na transição para o desenvolvimento de software, construindo APIs RESTful escaláveis, arquiteturas relacionais limpas e interfaces modernas.
 
