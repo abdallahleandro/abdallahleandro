@@ -58,8 +58,11 @@ API para controle de chamados de suporte técnico com CRUD completo.
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdallahleandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de Leandro" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahleandro&theme=tokyonight" alt="Sequência de Commits" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=abdallahleandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahleandro&layout=compact&theme=tokyonight" />
 </p>
 
 ---
