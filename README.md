@@ -205,7 +205,7 @@ API REST para gerenciamento de entregas desenvolvida durante a Formação Full S
 
 `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Docker` `JWT` `Bcrypt` `Jest` `Supertest` `Zod`
 
-➡️ **Repositório:** *(adicione o link quando publicar)*
+🔗 **[Acessar repositório](https://github.com/abdallahleandro/rocketlog)**
 
 ---
 
