@@ -5,21 +5,66 @@
 
 ---
 
-## 🚀 Desenvolvedor Full Stack & Analista de Sistemas
+# 👨‍💻 Desenvolvedor Full Stack | QA & Qualidade de Software
 
-Profissional de TI com mais de **14 anos de experiência em suporte técnico**, com uma trajetória construída em resolução de problemas, análise de processos, atendimento a usuários e busca por soluções eficientes.
+Profissional de TI com mais de **14 anos de experiência**, construindo uma trajetória baseada em **resolução de problemas, troubleshooting, análise de causa, suporte técnico e melhoria contínua**.
 
-Atualmente, estou direcionando essa experiência para o **desenvolvimento de software**, com foco em aplicações **Backend e Full Stack**, utilizando tecnologias modernas do ecossistema JavaScript/TypeScript.
+Atualmente, direciono essa experiência para o **desenvolvimento de software e qualidade de software**, unindo conhecimentos de **Full Stack Development** com uma nova jornada em **QA (Quality Assurance)**.
 
-Minha experiência em suporte técnico me ajuda a desenvolver uma visão mais orientada à resolução de problemas, entendendo não apenas o código, mas também as necessidades de quem utiliza a solução.
+Minha experiência em suporte técnico contribui para uma visão orientada à investigação de problemas, identificação de causas, análise de cenários e busca por soluções eficientes — competências que aplico tanto no desenvolvimento quanto nos processos de qualidade.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas – Unilasalle**
+## 🚀 Desenvolvimento
 
-🚀 Formação **Full Stack – Rocketseat**
+Concluí minha **Formação Full Stack pela Rocketseat**, desenvolvendo aplicações e APIs utilizando o ecossistema **JavaScript/TypeScript**.
 
-💻 Foco atual: **Node.js • TypeScript • React • APIs REST • Banco de Dados**
+### 💻 Tecnologias
 
-📍 Canoas/RS — Disponível para oportunidades **Remotas | Híbridas | Presenciais**
+* **Node.js**
+* **TypeScript**
+* **JavaScript**
+* **React**
+* **Express**
+* **APIs REST**
+* **Prisma**
+* **JWT**
+* **Zod**
+* **SQL / Banco de Dados**
+* **Git & GitHub**
+
+## 🧪 QA & Qualidade de Software
+
+Estou atualmente ampliando minha atuação para a área de **Quality Assurance**, desenvolvendo conhecimentos em:
+
+* Testes de software
+* Testes funcionais
+* Testes exploratórios
+* Testes de API
+* Identificação e documentação de bugs
+* Casos de teste e cenários
+* Análise de requisitos
+* Validação de funcionalidades
+* Testes de regressão
+* Qualidade de software
+* Automação de testes
+
+Também participo como **QA Volunteer no Fedora Project**, contribuindo com atividades de testes e validação dentro da comunidade Fedora.
+
+## 🎓 Formação
+
+* 🎓 **Análise e Desenvolvimento de Sistemas — Unilasalle**
+* 🚀 **Formação Full Stack — Rocketseat**
+* 🧪 **Formação e estudos em QA / Quality Assurance**
+
+## 🎯 Atualmente
+
+Meu objetivo é consolidar uma carreira que combine **desenvolvimento de software, qualidade e automação**, evoluindo gradualmente em direção a práticas modernas de **QA, testes automatizados e integração entre desenvolvimento e qualidade**.
+
+> **Desenvolver soluções é importante. Garantir que elas funcionem como esperado também.**
+
+📍 **Canoas/RS — Brasil**
+
+🌎 Disponível para oportunidades **Remotas | Híbridas | Presenciais**
+
 
 ---
 
