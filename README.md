@@ -345,12 +345,6 @@ Meu objetivo é continuar evoluindo tecnicamente, contribuir com o time e transf
 
 ---
 
-## 📊 GitHub Stats
-
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallahleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahleandro&layout=compact&theme=dark)
-
----
 
 ### 📫 Contato
 
