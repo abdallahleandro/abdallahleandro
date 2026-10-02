@@ -319,7 +319,6 @@ Minha jornada de desenvolvimento continua com foco no aprofundamento de:
 * TypeScript
 * APIs REST
 * Banco de dados relacionais
-* Testes automatizados
 * Docker e containers
 * Boas práticas de desenvolvimento
 * Arquitetura e organização de aplicações
