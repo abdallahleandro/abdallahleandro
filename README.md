@@ -324,14 +324,18 @@ Minha jornada de desenvolvimento continua com foco no aprofundamento de:
 * Boas práticas de desenvolvimento
 * Arquitetura e organização de aplicações
 * Deploy e ambientes de produção
+* Testes automatizados (Jest, Supertest)
+* Testes de API e exploratórios
+* QA e qualidade de software
+* Automação de testes
 
 ---
 
 # 🎯 Objetivo profissional
 
-Busco uma oportunidade na área de **Desenvolvimento de Software**, especialmente em posições **Júnior**, onde possa aplicar minha experiência profissional anterior junto aos conhecimentos adquiridos em desenvolvimento Full Stack.
+Busco uma oportunidade nas áreas de **Desenvolvimento de Software** ou **QA / Quality Assurance**, especialmente em posições **Júnior**, onde possa aplicar minha experiência profissional anterior junto aos conhecimentos adquiridos em desenvolvimento Full Stack e qualidade de software.
 
-Meu objetivo é continuar evoluindo tecnicamente, contribuir com o time e transformar problemas reais em soluções eficientes e bem estruturadas.
+Meu objetivo é continuar evoluindo tecnicamente, contribuir com o time e transformar problemas reais em soluções eficientes e bem estruturadas — sempre com foco em qualidade.
 
 ---
 
@@ -341,8 +345,15 @@ Meu objetivo é continuar evoluindo tecnicamente, contribuir com o time e transf
 
 ---
 
+## 📊 GitHub Stats
+
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallahleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahleandro&layout=compact&theme=dark)
+
+---
+
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Abdallah-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/leandroabdallah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro_Abdallah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandroabdallah)
 
-[![Email](https://img.shields.io/badge/Email-leandroabdallah%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leandroabdallah@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leandroabdallah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandroabdallah@gmail.com)
