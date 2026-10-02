@@ -13,6 +13,21 @@ Atualmente, direciono essa experiência para o **desenvolvimento de software e q
 
 Minha experiência em suporte técnico contribui para uma visão orientada à investigação de problemas, identificação de causas, análise de cenários e busca por soluções eficientes — competências que aplico tanto no desenvolvimento quanto nos processos de qualidade.
 
+
+
+## 🐧 Open Source — Fedora QA
+
+Contribuo como **QA Volunteer** no Fedora Project, testando funcionalidades antes dos releases oficiais e reportando bugs para o Bugzilla.
+
+- 🧪 **3 Test Days concluídos** (KDE Plasma 6.7, CoreOS 45, Anaconda F45)
+- 🐛 **1 bug reportado** no Bugzilla: [Stratis encrypted pool fails to boot](https://bugzilla.redhat.com/show_bug.cgi?id=2543511)
+- ✅ **Karma no Bodhi** para pacotes em `updates-testing`
+- 💬 Ativo nos canais **#quality** e **fedora-br** (Matrix)
+
+📂 **Repositório com relatórios completos:** [QA-Fedora-Project](https://github.com/abdallahleandro/QA-Fedora-Project)
+
+
+
 ## 🚀 Desenvolvimento
 
 Concluí minha **Formação Full Stack pela Rocketseat**, desenvolvendo aplicações e APIs utilizando o ecossistema **JavaScript/TypeScript**.
@@ -47,7 +62,6 @@ Estou atualmente ampliando minha atuação para a área de **Quality Assurance**
 * Qualidade de software
 * Automação de testes
 
-Também participo como **QA Volunteer no Fedora Project**, contribuindo com atividades de testes e validação dentro da comunidade Fedora.
 
 ## 🎓 Formação
 
@@ -72,21 +86,21 @@ Meu objetivo é consolidar uma carreira que combine **desenvolvimento de softwar
 
 ## Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Knex](https://img.shields.io/badge/Knex-D26B38?style=for-the-badge)
 
 ---
 
 ## Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Conceitos praticados
 
@@ -102,8 +116,8 @@ Meu objetivo é consolidar uma carreira que combine **desenvolvimento de softwar
 
 ## Banco de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Conhecimentos
 
@@ -120,7 +134,7 @@ Meu objetivo é consolidar uma carreira que combine **desenvolvimento de softwar
 
 ## 🔐 Autenticação & Validação
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-4A154B?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 
@@ -138,7 +152,7 @@ Experiência prática com:
 
 ## 🧪 Testes
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
 
 Conhecimentos em:
@@ -154,8 +168,8 @@ Conhecimentos em:
 
 ## 🐳 Containers & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 Conhecimentos em:
 
@@ -170,11 +184,11 @@ Conhecimentos em:
 
 ## 🧰 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge\&logo=insomnia\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Beekeeper Studio](https://img.shields.io/badge/Beekeeper_Studio-FFCC00?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
