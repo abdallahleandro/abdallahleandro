@@ -24,7 +24,7 @@ Contribuo como **QA Volunteer** no Fedora Project, testando funcionalidades ante
 - ✅ **Karma no Bodhi** para pacotes em `updates-testing`
 - 💬 Ativo nos canais **#quality** e **fedora-br** (Matrix)
 
-📂 **Repositório com relatórios completos:** [QA-Fedora-Project](https://github.com/abdallahleandro/QA-Fedora-Project)
+### 📂 **Repositório com relatórios completos:** [QA-Fedora-Project](https://github.com/abdallahleandro/QA-Fedora-Project)
 
 
 
