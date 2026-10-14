@@ -19,7 +19,7 @@ Minha experiência em suporte técnico contribui para uma visão orientada à in
 
 Contribuo como **QA Volunteer** no Fedora Project, testando funcionalidades antes dos releases oficiais e reportando bugs para o Bugzilla.
 
-- 🧪 **3 Test Days concluídos** (KDE Plasma 6.7, CoreOS 45, Anaconda F45)
+- 🧪 **4 Test Days concluídos** (KDE Plasma 6.7, CoreOS 45, Anaconda F45, Podman Conmon-V3)
 - 🐛 **1 bug reportado** no Bugzilla: [Stratis encrypted pool fails to boot](https://bugzilla.redhat.com/show_bug.cgi?id=2543511)
 - ✅ **Karma no Bodhi** para pacotes em `updates-testing`
 - 💬 Ativo nos canais **#quality** e **fedora-br** (Matrix)
