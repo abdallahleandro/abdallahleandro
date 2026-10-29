@@ -29,8 +29,8 @@ Contribuo como **QA Volunteer** no Fedora Project, testando funcionalidades ante
 
 
 
-### 🧪 API Testing Portfolio (Postman & JavaScript)
----
+## 🧪 API Testing Portfolio (Postman & JavaScript)
+
 *   **Descrição:** Suíte de testes automatizados de API (CRUD) utilizando Postman e scripts em JavaScript (Chai.js) para validar contratos, status HTTP e regras de negócio da Fake Store API.
 *   **Tecnologias:** Postman, JavaScript, Git, GitHub.
 *   **Destaque:** Execução via Collection Runner com 13 asserções automatizadas e 0 falhas.
